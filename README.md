@@ -73,8 +73,8 @@ me.say_hi()
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arynbht&show_icons=true&theme=radical&count_private=true" alt="Aryan's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arynbht&layout=compact&theme=radical" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adonalsiun&show_icons=true&theme=radical&count_private=true" alt="Aryan's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adonalsiun&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
